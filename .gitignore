@@ -1,0 +1,11 @@
+# Private working notes. They name clients and internal details, so they must
+# never be pushed: GitHub Pages would publish them. Keep them out of the repo.
+HANDOVER_PORTFOLIO.md
+docs/HANDOVER_PORTFOLIO.md
+docs/BUILD_BRIEF_FOR_OPUS.md
+CLAUDE.md
+.claude/
+TODO.md
+
+# Original full-size portrait (the site uses the resized copies)
+assets/swapnil-portrait.webp
